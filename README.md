@@ -16,13 +16,13 @@ Cómo jugar
    
 3. Ingrese los nombres de tus amigos.
    <p>Aquí se debe ingresar el nombre de tus amigos en el input y luego seleccionar el boton añadir.</p>
-   <img src = "Captura de pantalla_11-2-2025_141816_127.0.0.1.jpeg"/>
+   <img src = "./Imagenes-del-juego/Captura de pantalla_11-2-2025_141816_127.0.0.1.jpeg"/>
 4. Se mostrará el listado de amigo en el navegador.
    
-   <img src = "Captura de pantalla_11-2-2025_141930_127.0.0.1.jpeg"/>
+   <img src = "./Imagenes-del-juego/Captura de pantalla_11-2-2025_141930_127.0.0.1.jpeg"/>
 5. Por ultimo aprieta el botón sortear y el programa seleccionará al amigo sorteado.
    
-   <img src = "Captura de pantalla_11-2-2025_141948_127.0.0.1.jpeg"/>
+   <img src = "./Imagenes-del-juego/Captura de pantalla_11-2-2025_141948_127.0.0.1.jpeg"/>
    
 Proyecto de Alura
 <p>Este proyecto fue desarrollado como parte del curso de Alura, con el objetivo de mejorar las habilidades en JavaScript.</p>
